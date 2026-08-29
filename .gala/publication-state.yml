@@ -1,8 +1,13 @@
 schemaVersion: 1
-deployedCommitSha: 153f41bfcc1d69ebefcb3269b79f805ecbc7e768
+deployedCommitSha: 30887dc5d9c9248b59ba76f823f824c932137956
 posts:
   - id: 01M16QVHPTVTGCM1852NWNF8ZB
     slug: example
+    languages:
+      en:
+        firstPublishedOn: 2026-08-29
+  - id: 01M16QVW5V01VGG4Y9ERSPWSN9
+    slug: your-first-post
     languages:
       en:
         firstPublishedOn: 2026-08-29
