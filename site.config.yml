@@ -4,7 +4,7 @@ schemaVersion: 1
 framework:
   themePackage:
     name: "@rathnasgala/theme"
-    version: 2.0.19
+    version: 2.0.22
 site:
   id: 01M16QV2BSRKK9GWC91F4VVQ9T
   ownerId: 01KZWXXZV4JMYCZ961SJ05F6HH
@@ -55,6 +55,6 @@ contact:
 # their performance impact remains the author's responsibility under FR-1903.
 performance:
   budgets:
-    managedJavaScriptBytes: 72023
+    managedJavaScriptBytes: 72492
     managedCssBytes: 34816
     ordinaryHtmlBytes: 32768
