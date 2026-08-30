@@ -7,7 +7,7 @@ framework:
     version: 2.0.19
 site:
   id: 01M16QV2BSRKK9GWC91F4VVQ9T
-  ownerId: 01M04FP8ZK8JBD9CP3GYDCGG5T
+  ownerId: 01KZWXXZV4JMYCZ961SJ05F6HH
   repository: rathnastest/field-notes2
   # Set the publication title and public author profile here. Until then the repository owner is shown.
   name: "rathnastest"
