@@ -136,3 +136,7 @@ Your expertise deserves to be found. Your time still belongs to you.
 ---
 
 *Explore [Gala67](https://gala67.com/) and see how repository-owned publishing can fit the way you work.*
+
+---
+
+> 1
