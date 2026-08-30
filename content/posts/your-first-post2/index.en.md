@@ -22,7 +22,7 @@ You know the feeling: the shop is finally quiet, the last customer email is answ
 
 You open a blank page. You think about keywords, headlines, images, links, metadata, and publishing. Forty-five minutes later, you are still adjusting the title while the work that actually pays the bills waits nearby.
 
-For a small-business owner, the problem is rarely a lack of expertise. You answer useful questions all day. You know what customers worry about before buying. You have stories, lessons, and hard-won advice worth sharing..
+For a small-business owner, the problem is rarely a lack of expertise. You answer useful questions all day. You know what customers worry about before buying. You have stories, lessons, and hard-won advice worth sharing.
 
 The problem is turning that knowledge into a consistent, professional blog without surrendering your evenings to it.
 
