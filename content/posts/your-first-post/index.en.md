@@ -1,5 +1,5 @@
 ---
-id: 01M16JPCJ4459629TM593WEC9K
+id: 01M16QVW5V01VGG4Y9ERSPWSN9
 title: "Gala67: The Smarter Way to Keep Your Small-Business Blog Growing"
 publishAfterDate: 2026-08-31
 language: en
