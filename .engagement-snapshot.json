@@ -1,18 +1,24 @@
 {
   "schemaVersion": 1,
-  "refreshedAt": "2026-09-02T02:37:46.559199128Z",
+  "refreshedAt": "2026-09-02T21:13:41.691335264Z",
   "articles": {
-    "01M16QVHPTVTGCM1852NWNF8ZB": {
-      "reactions": 2,
+    "01M16QVW5V01VGG4Y9ERSPWSN9": {
+      "reactions": 0,
       "comments": 0,
-      "views": 9,
-      "activeReadingSeconds": 0
+      "views": 3,
+      "activeReadingSeconds": 14
     },
     "01M17D2M29QFZCBCWAJGXGQ0CS": {
       "reactions": 8,
       "comments": 2,
       "views": 10,
       "activeReadingSeconds": 2
+    },
+    "01M16QVHPTVTGCM1852NWNF8ZB": {
+      "reactions": 2,
+      "comments": 0,
+      "views": 9,
+      "activeReadingSeconds": 0
     }
   }
 }
